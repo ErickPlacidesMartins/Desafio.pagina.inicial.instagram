@@ -29,7 +29,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 50%;
+  width: 40%;
 }
 
 .instagram-phone img {
@@ -148,4 +148,9 @@ body {
   .group {
     border: 1px solid transparent;
   }
+}
+
+#footer {
+  position: absolute;
+	bottom: 0;
 }
